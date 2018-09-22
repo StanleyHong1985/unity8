@@ -7,7 +7,6 @@ A convergent desktop environment.
 
 
 ### How to install
-### 如何安装
 
 The latest development preview of Unity8 for desktop can be installed on Ubuntu 16.04 (xenial) and 18.04 (bionic) as follows:
 
